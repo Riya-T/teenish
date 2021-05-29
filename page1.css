@@ -1,0 +1,177 @@
+h1 { 
+color: #513b56 ; 
+font-size: 50px; 
+margin: 35px; 
+margin-left: 20px; 
+margin-bottom: 20px;
+}
+
+h1.title{
+    font-size:70px;
+}
+  
+
+h2 { 
+font-size: 35px; 
+margin: 30px; 
+margin-top: 45px; 
+} 
+
+h3{
+margin-left: 25px;
+margin-top: 15px;
+}
+
+h3.t-subhead{
+    margin-top: 50px;
+}
+
+h3.subt-l{
+    margin-left: 280px;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+h3.subt-r{
+    margin-left: 1000px;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+li{ 
+font-style: bold; 
+font-size: 20px; 
+margin-left: 30px;
+margin: 17px;
+}
+
+  
+
+p { 
+margin: 25px; 
+font-family: 'Merriweather', serif; 
+font-size: 17px; 
+color: #735d78; 
+} 
+
+.bottom {
+    margin-bottom: 100px;
+}
+
+  
+
+li.item { 
+margin-bottom: 7px; 
+margin-top: 15px; 
+margin-left: 25px; 
+font-family: 'Merriweather', serif; 
+font-size: 17px; 
+color: #735d78; 
+} 
+
+  
+
+li.item2 { 
+margin-bottom:7px; 
+margin-left: 25px; 
+font-family: 'Merriweather', serif; 
+font-size: 17px; 
+color: #735d78; 
+} 
+
+  
+
+li.item-b { 
+margin-bottom: 40px; 
+margin-left: 25px; 
+font-family: 'Merriweather', serif; 
+font-size: 17px; 
+color: #735d78; 
+} 
+
+  
+
+li.reference { 
+margin-left: 15px; 
+font-size: 20px; 
+margin-top: 5px;
+} 
+
+li.r-item{
+    font-size: 25px;
+}
+
+  
+
+hr.rounded { 
+border-top: 4px solid #bbb; 
+border-radius: 5px; 
+} 
+
+  
+
+body { 
+font-family: 'Raleway', sans-serif; 
+color: #352d39; 
+} 
+
+  
+
+head{ 
+margin: 25px;
+} 
+
+h4 { 
+margin-left: 80px; 
+margin:25px; 
+font-size: 15px; 
+} 
+
+  
+
+h4.subhead{ 
+margin-left: 80px; 
+margin:25px; 
+font-size:20px; 
+} 
+
+a:link {
+    color: #7b6581;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: #524356;
+    text-decoration: none;
+}
+
+/*a:active {
+    
+}*/
+
+.ol{
+font-size: 35px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.desc{
+    padding:10px;
+    text-align:center;
+    font-size: 25px;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
+
+
